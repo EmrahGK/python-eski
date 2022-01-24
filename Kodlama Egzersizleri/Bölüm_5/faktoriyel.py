@@ -21,7 +21,7 @@ while True:
         faktoriyel = 1
 
         for i in range(2,sayi+1):
-            print("Faktoriyel",faktoriyel,"i'nin değeri: ",i5)
+            print("Faktoriyel",faktoriyel,"i'nin değeri: ",i)
             faktoriyel *= i
 
         print("Faktoriyel Değeri: ",faktoriyel)
